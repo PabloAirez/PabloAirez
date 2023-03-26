@@ -1,6 +1,6 @@
 ### Hello world! Do you want a cup of coffee?
-- ☕ Em busca de um estágio em Desenvolvimento
-- 🦉 Estudando Flutter e frontEnd
+- ☕ Em busca de uma vaga backend em Desenvolvimento
+- 🦉 Estudando Laravel
 - 🍫 Buscando projetos fullstack para colaborar
 - 💬 Disponível para início imediato
   
