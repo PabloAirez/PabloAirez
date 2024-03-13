@@ -22,7 +22,7 @@
   <img align="center" alt="html" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
     <img align="center" alt="css" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
     <img align="center" alt="javascript" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
-  <img align="right" alt="foto-de-uma-alpaca" height="250" style="border-radius:50px;" src="https://user-images.githubusercontent.com/90019869/155417662-b6399ddd-a242-48e2-86e6-85aa73c74a4d.png">
+ 
 </div>
   
 ##
