@@ -1,4 +1,4 @@
-### Hello world! Do you want a cup of coffee?
+### Hello world! 
 - ☕ Em busca de uma vaga backend em Desenvolvimento
 - 🦉 React js e Laravel
 - 🍫 Buscando projetos fullstack para colaborar
