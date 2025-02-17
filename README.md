@@ -1,6 +1,6 @@
 ### Hello world! 
 - ☕ Em busca de uma vaga backend em Desenvolvimento
-- 🦉 React js e Laravel
+- 🦉 React js, Node JS e Laravel
 - 🍫 Buscando projetos fullstack para colaborar
 - 💬 Disponível para início imediato
   
